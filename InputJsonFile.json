@@ -1,0 +1,17 @@
+{
+   "company":
+   [
+     {
+        "name":"Wipro",
+        "employee count": "125000"
+      },
+      {
+        "name":"TCS",
+        "employee count": "15000"
+      },
+      {
+        "name":"Google",
+        "employee count": "5000"
+      }
+   ]
+}

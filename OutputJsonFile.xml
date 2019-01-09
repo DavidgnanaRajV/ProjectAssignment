@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<company>
+  <name>Wipro Technologies</name>
+  <employee count>125000</employee count>
+  <name>TCS</name>
+  <employee count>15000</employee count>
+  <name>Google</name>
+  <employee count>5000</employee count>
+</company>

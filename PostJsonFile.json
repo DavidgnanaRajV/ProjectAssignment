@@ -1,0 +1,11 @@
+{
+  "method": "POST",
+  "statusCode": 201,
+  "error": null,
+  "data": {
+    "title": "foo",
+    "body": "bar",
+    "userId": "1",
+    "id": 101
+  }
+}
